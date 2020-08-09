@@ -12,9 +12,9 @@ function loadDataTable() {
             "datatype": "json"
         },
         "columns": [
-            { "data": "name", "width": "30%" },
-            { "data": "author", "width": "30%" },
-            { "data": "isbn", "width": "30%" },
+            { "data": "name", "width": "20%" },
+            { "data": "author", "width": "20%" },
+            { "data": "isbn", "width": "20%" },
             {
                 "data": "id",
                 "render": function (data) {
@@ -23,7 +23,7 @@ function loadDataTable() {
                             Edit
                         </a>
                         &nbsp;
-                        <a class'btn btn-success text-white' style='cursor:pointer; width:100px;'
+                        <a class'btn btn-success text-white' style='cursor:pointer; width:70px;'
                             onclick=Delete('/books/Delete?id='+${data})>
                             Delete
                         </a>

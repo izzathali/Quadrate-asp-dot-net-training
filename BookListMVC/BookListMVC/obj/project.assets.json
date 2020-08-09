@@ -5460,11 +5460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Quadrate\\Quadrate-asp-dot-net-training\\LoadBookList\\Quadrate-asp-dot-net-training\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+      "projectUniqueName": "F:\\Quadrate\\Quadrate-asp-dot-net-training\\Add\\Quadrate-asp-dot-net-training\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
       "projectName": "BookListMVC",
-      "projectPath": "F:\\Quadrate\\Quadrate-asp-dot-net-training\\LoadBookList\\Quadrate-asp-dot-net-training\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+      "projectPath": "F:\\Quadrate\\Quadrate-asp-dot-net-training\\Add\\Quadrate-asp-dot-net-training\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
       "packagesPath": "C:\\Users\\Izzath  Ali\\.nuget\\packages\\",
-      "outputPath": "F:\\Quadrate\\Quadrate-asp-dot-net-training\\LoadBookList\\Quadrate-asp-dot-net-training\\BookListMVC\\BookListMVC\\obj\\",
+      "outputPath": "F:\\Quadrate\\Quadrate-asp-dot-net-training\\Add\\Quadrate-asp-dot-net-training\\BookListMVC\\BookListMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
