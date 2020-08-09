@@ -1,8 +1,10 @@
-﻿@{
+﻿@model BookListMVC.Models.Book
+
+@{
     ViewData["Title"] = "Create";
 }
 
-@model BookListMVC.Models.Book
+
 
 <br />
 <h2 class="text-info">@(Model.Id!= 0 ?"Edit":"Create")Book </h2>
@@ -62,9 +64,9 @@
 
     </form>
 </div>
-<!--
-    //error
-    seciton Scripts{
+
+
+@section Scripts{
     <partial name="_ValidationScriptsPartial" />
- }
-    -->
+}
+
